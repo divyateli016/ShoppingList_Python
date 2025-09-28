@@ -1,5 +1,4 @@
 # ShoppingList_Python
-
 This project is a Python implementation of a Shopping List system inspired by C++ class design.
 It demonstrates key object-oriented concepts such as:
 	•	Class design with private members
